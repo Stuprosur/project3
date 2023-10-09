@@ -1,0 +1,3 @@
+D:/Code/CPP/Proj/project3/CMakeFiles/project3.dir
+D:/Code/CPP/Proj/project3/CMakeFiles/edit_cache.dir
+D:/Code/CPP/Proj/project3/CMakeFiles/rebuild_cache.dir
